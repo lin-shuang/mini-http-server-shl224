@@ -1,11 +1,16 @@
-CSE 264 – Web Systems Programming – Fall 2022
-Homework Assignment 8 - Mini HTTP Server
-Due: Tue November 29th, 2022
+# Homework Assignment 8 - Mini HTTP Server
 
-Objective
+- Author: Shuang Lin
+- Email: shuanglin3359@gmail.com
+
+### CSE 264 – Web Systems Programming – Fall 2022
+
+- Due: Tue November 29th, 2022
+
+### Objective
 To gain a better understanding of the HTTP protocol and how it might be implemented in a web server.
 
-Description
+### Description
 The assignment is to take the Mini HTTP Server provided and add a couple of features to the server.
 
 **Feature 1: Log file**
@@ -47,7 +52,7 @@ You can use the java.text.SimpleDateFormat class to format the date.
 Use the following as a reference for HTTP headers:
 http://en.wikipedia.org/wiki/List_of_HTTP_header_fields
 
-Procedure
+### Procedure
 1. Accept the repo from gihub classroom.
 2. Keep all the files where they are (don't add any folders).
 3. Edit Main.java in VSC and add the changes.
